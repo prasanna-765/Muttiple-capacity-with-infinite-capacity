@@ -22,6 +22,10 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Program
 
+Developed by : Prasanna A
+
+Register no : 23005675
+
 ![prog](https://github.com/prasanna-765/Muttiple-capacity-with-infinite-capacity/assets/150009505/7f52ff93-36fd-4f6f-97ae-16ade6377572)
 
 ## Output :
